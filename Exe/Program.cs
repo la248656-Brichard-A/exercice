@@ -1,2 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Entrez un mot : ");
+Console.ReadLine();
+Console.WriteLine("Trou de balle !");
